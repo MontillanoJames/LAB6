@@ -1,0 +1,31 @@
+body {
+	background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg");
+	background-attachment: fixed;
+}
+img {
+    border: 1px solid #1111;
+    height 426
+    width: 554px;
+	display: block;
+    margin: auto;
+}
+h1 {font-family: arial;
+    font-size: 100px;
+    color: #810F04;
+	text-align: center;
+}
+h2 {font-family: arial;
+    font-size: 50px;
+    color: #000000;
+	text-align: center}
+body {
+     background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/23695_pets_vertical_store_dogs_small_tile_8._CB312176604_.jpg");
+	 background-position: center;
+	 background-repeat: repeat-y-x-fast;
+}
+
+p.center {font-family: verdana;
+         font-size: 18px;
+		 color: #4613D6;
+		 text-align: center;
+}
